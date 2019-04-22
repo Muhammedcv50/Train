@@ -1,0 +1,5 @@
+Mohd123,Kasargode,Delhi,12/12/18,2,3,198
+Mohd123,Kannur,Calicut,10/12/18,3,1,404
+Mohd123,Kollam,Karicode,12/12/18,3,2,384
+Ani123,Andaman,Kollam,12/12/19,3,2,274
+dani34,America,Nademal,12/12/20,3,3,332
